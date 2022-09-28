@@ -45,6 +45,68 @@ Fullstack (web app) - Ken
 
 Backend Lead / Frontend(web app) - Jason
 
+# Full Features List - Mobile App 
+   - User can login / logout.
+   - User can enter and update profile information (name, city, prefecture, emergency contact).
+   - User can upload / edit profile picture.
+   
+   - On the HOME screen, users can view MY GROUPS 
+        - users can view the groups they have joined
+        - users can view the groups they have joined as a LEADER. 
+        - users can view the groups they have joined as a MEMBER. 
+        
+   - On the HOME screen, users can view MY EVENTS 
+        - users can view the events they have joined
+        - users can view the events they have joined as a LEADER. 
+        - users can view the events they have joined as a MEMBER. 
+   
+   - On the HOME screen, users can CREATE a GROUP.
+        - users can upload and set a group photo. 
+        - users can enter and set a group name and group description. 
+        - users can select a TAG for their group. 
+        
+   - On the HOME screen, users can CREATE an EVENT.
+        - users can upload and set an event photo. 
+        - users can enter and set a event name and event description. 
+        - users can set an event DATE and TIME.
+        - users can select a GROUP to assign to the EVENT if they are a group LEADER. 
+        - users can select a VENUE to assign to the EVENT, including "Not Decided". 
+        - if the user selects "Not Decided" the event will show up on the TomoKuru WEB app as an "Event without an Venue". 
+   
+   - From the EXPLORE screen, users can view a list of GROUPS.
+        - Users can scroll to see all groups and basic content. 
+        - Users can search for groups
+        - Users can filter groups by TAGS. 
+        - Users can view group details by pressing on the group 
+        - Users can JOIN the group by pressing a button. 
+        
+   - From the EXPLORE screen, users can view a list of EVENTS. 
+        - Users can scroll to see all events and basic content. 
+        - Users can view EVENT details by pressing on the event. 
+        - Users can JOIN the EVENT by pressing a button. 
+        
+   - From the EXPLORE screen, users can view a list of VENUES.
+        - Users can scroll to see all venues and basic content. 
+        - Users can search for venues by LOCATION (ward/city).
+        - Users can filter venues by smoking/non-smoking, outdoor seating, venue capacity. 
+        - Users can view group details by pressing on the group 
+        - Users can JOIN the group by pressing a button. 
+        - On the VENUE DETAILS page, users can: 
+            - View the venue description, address, phone number, email, and other details. 
+            - Users can press a button to open the venue location in google maps. 
+            - Users can press a button to view EVENT PACKAGES offered by the venue. 
+            
+   - From the SAFETY screen, users have an option of safety features. 
+        - Users can send a text to their emergency contact to let them know they arrived at the venue and everything is okay. 
+        - Users can send a text to their emergency contact to let them know they feel uncomfortable and call them ASAP. 
+        - Users can also press a button that will call the polic (119) if the user presses the call button. 
+        
+   
+   
+    
+
+   
+
 
 # Styling Page
 
