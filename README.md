@@ -47,6 +47,28 @@ Fullstack (web app) - Ken
 
 Backend Lead / Frontend(web app) - Jason
 
+# Full Features List - Web App
+
+- Vendor can signup / login / logout.
+- Vendor can enter and update profile information (name, title, city, prefecture).
+- Vendor can upload / edit profile picture.
+- In the "Venue" page, vendor can view owned venue list.
+    - create a venue with photo.
+    - update a selected venue.
+    - detele a selected venue.
+- In the "Package" page, vendor can view package list of venue.
+    - create a package with photo.
+    - update a selected package.
+    - detele a selected package.
+- In the "Event" page, vendor can view event list of venue.
+    - create a event with photo.
+    - update a selected event.
+    - detele a selected event.
+    - Vendor could communicate with group owner in the event by sending messages.
+- In the "Events without venue" page, vendor can view event list lacking venue.
+- In the "Upcoming Event" page,  vendor can view upcoming event due to the event start time.
+- In the "Hosted Event" page,  vendor can view upcoming event due to the event start time.
+
 # Full Features List - Mobile App 
    - User can login / logout.
    - User can enter and update profile information (name, city, prefecture, emergency contact).
