@@ -27,7 +27,7 @@ WEB - http://tomokuru-web.i-re.io/
     - slideshow
     
     
-- Have any feedback?
+# Have any feedback?
 We'd love to hear your questions, comments, or concerns! 
 
 please mail stevemckillop@gmail.com 
