@@ -1,7 +1,8 @@
 # README
 Read more about the Tomokuru platform
 
-<img width="170" alt="Screen Shot 2022-09-28 at 19 36 33" src="https://user-images.githubusercontent.com/92012639/192758256-c020dae7-c5b3-42fe-a925-63717632fc96.png">
+<img width="170" alt="TomoKuru Logo" src="https://user-images.githubusercontent.com/101092043/192829228-c0c058f3-f664-42d6-b916-02520b74e152.png">
+
 
 
 Welcome to Tomokuru. Tomokuru is an online platform that integrates a user-oriented mobile app and a vendor-orientated web site. The purpose of Tomokuru is to give individual users a new way to meet people with similar hobbies and interests, browse events that are going on in the city, and search for different types of venues where they may host or attend social gatherings. Vendors also have a new way to manage multiple venues to offer various packages that appear on the users venue screen.
