@@ -27,19 +27,13 @@ WEB - http://tomokuru-web.i-re.io/
     - slideshow
     
     
-- Have any feedback? how to submit feedback requests
-- Meet the team
-    - LinkedIn
-    - github link for each member
-    - porfolio website
-    - medium blogs
-- Export as markdown
+- Have any feedback?
+We'd love to hear your questions, comments, or concerns! 
+
+please mail stevemckillop@gmail.com 
 
 
-
-
-
-# Roles (github / linkedIn / email) 
+# Meet the Team / Roles (github / linkedIn / email) 
 
 Tech Lead / Design - Adam 
 
