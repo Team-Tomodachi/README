@@ -5,7 +5,7 @@ Read more about the Tomokuru platform
 
 
 
-Welcome to Tomokuru. Tomokuru is an online platform that integrates a user-oriented mobile app and a vendor-orientated web site. The purpose of Tomokuru is to give individual users a new way to meet people with similar hobbies and interests, browse events that are going on in the city, and search for different types of venues where they may host or attend social gatherings. Vendors also have a new way to manage multiple venues to offer various packages that appear on the users venue screen.
+Welcome to Tomokuru. TomoKuru is an online platform that integrates a user-oriented mobile app and a vendor-orientated web site. The purpose of TomoKuru is to give individual users a new way to meet people with similar hobbies and interests, browse events that are going on in the city, and search for different types of venues where they may host or attend social gatherings. Vendors also have a new way to manage multiple venues to offer various packages that appear on the users venue screen.
 
 Inside the Tomokuru organization, you will find 3 main respositories. The TomoKuru-Mobile app was built with React native and deployed through Expo Go. The Tomokuru-Web app was built with React and deployed on Google cloud services. The TomoKuru-Backend was developed with PostgreSQL and we utiziled Firebase for authentication and image handling. 
 
