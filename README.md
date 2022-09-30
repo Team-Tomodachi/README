@@ -37,9 +37,9 @@ please mail stevemckillop@gmail.com
 
 # Meet the Team / Roles (github / linkedIn / email) 
 
-Tech Lead / Design - Adam 
+Tech Lead / Fullstack / Design - Adam 
 
-Product Owner/Front-end - Steve
+Product Owner / Front-end - Steve
 
 Frontend Lead (mobile) - Han
 
