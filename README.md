@@ -1,12 +1,18 @@
-# README
-Read more about the TomoKuru platform
-
+# TomoKuru
 <img width="170" alt="TomoKuru Logo" src="https://user-images.githubusercontent.com/101092043/192830457-430aa01b-51a5-4bdc-af73-3fa4668e2efe.svg">
 
 
 Welcome to TomoKuru. TomoKuru is an online platform that integrates a user-oriented mobile app and a vendor-orientated web site. The purpose of TomoKuru is to give individual users a new way to meet people with similar hobbies and interests, browse events that are going on in the city, and search for different types of venues where they may host or attend social gatherings. Vendors also have a new way to manage multiple venues to offer various packages that appear on the users venue screen.
 
-Inside the TomoKuru organization, you will find 3 main respositories. The TomoKuru-Mobile app was built with React native and deployed through Expo Go. The TomoKuru-Web app was built with React and deployed on Google cloud services. The TomoKuru-Backend was developed with PostgreSQL and we utiziled Firebase for authentication and image handling. 
+Inside the TomoKuru organization, you will find 3 main respositories. The TomoKuru-Mobile app was built with React native and deployed through Expo Go. The TomoKuru-Web app was built with React and deployed on Google cloud services. The TomoKuru-Backend was developed with PostgreSQL and we utiziled Firebase for authentication and image handling.
+
+## Check out the respositories
+
+[TomoKuru-Mobile](https://github.com/Team-Tomodachi/TomoKuru-Mobile)
+
+[TomoKuru-Web](https://github.com/Team-Tomodachi/TomoKuru-Web)
+
+[TomoKuru-Backend](https://github.com/Team-Tomodachi/TomoKuru-Backend)
 
 # How to download / access application
 
